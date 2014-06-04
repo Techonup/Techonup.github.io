@@ -1,3 +1,5 @@
+window.onload=function() {
+
 // variables
 var leftchannel = [];
 var rightchannel = [];
@@ -160,4 +162,4 @@ function success(e){
     // we connect the recorder
     volume.connect (recorder);
     recorder.connect (context.destination); 
-}
+}}
