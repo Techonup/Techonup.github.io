@@ -1,0 +1,101 @@
+{
+  "1": {
+    "choices": [
+    "Drifblim",
+    "Rattata",
+    "Chinchou",
+    "Raichu"],
+    
+    "correct": "c"
+  },
+  
+  "2": {
+    "choices": [
+    "Mew",
+    "Scizor",
+    "Turtwig",
+    "Bastiodon"],
+    
+    "correct": "b"
+  },
+  
+  "3": {
+    "choices": [
+    "Alakazam",
+    "Pidove",
+    "Mewtwo",
+    "Machoke"],
+    
+    "correct": "c"
+  },
+  
+  "4": {
+    "choices": [
+    "Latias",
+    "Grumpig",
+    "Pidgeotto",
+    "Salamence"],
+    
+    "correct": "a"
+  },
+  
+  "5": {
+    "choices": [
+    "Mamoswine",
+    "Torterra",
+    "Ariados",
+    "Haunter"],
+    
+    "correct": "a"
+  },
+  
+  "6": {
+    "choices": [
+    "Lapras",
+    "Leavanny",
+    "Beedrill",
+    "Vanilluxe"],
+    
+    "correct": "d"
+  },
+  
+  "7": {
+    "choices": [
+    "Wigglytuff",
+    "Shaymin",
+    "Raikou",
+    "Charizard"],
+    
+    "correct": "b"
+  },
+  
+  "8": {
+    "choices": [
+    "Poliwhirl",
+    "Golduck",
+    "Houndour",
+    "Tyrunt"],
+    
+    "correct": "a"
+  },
+  
+  "9": {
+    "choices": [
+    "Greninja",
+    "Primeape",
+    "Dragonair",
+    "Ninjask"],
+    
+    "correct": "a"
+  },
+  
+  "10": {
+    "choices": [
+    "Sylveon",
+    "Magnezone",
+    "Clefairy",
+    "Pikachu"],
+    
+    "correct": "d"
+  }
+}
