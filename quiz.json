@@ -7,7 +7,7 @@ callback({
     "Raichu"],
     
     "question": "What is this Pokémon",
-    "correct": "c"
+    "correct": "3"
   },
   
   "2": {
@@ -18,7 +18,7 @@ callback({
     "Bastiodon"],
     
     "question": "What is this Pokémon",
-    "correct": "b"
+    "correct": "2"
   },
   
   "3": {
@@ -29,7 +29,7 @@ callback({
     "Machoke"],
 
     "question": "What is this Pokémon",    
-    "correct": "c"
+    "correct": "3"
   },
   
   "4": {
@@ -40,7 +40,7 @@ callback({
     "Salamence"],
 
     "question": "What is this Pokémon",    
-    "correct": "a"
+    "correct": "1"
   },
   
   "5": {
@@ -51,7 +51,7 @@ callback({
     "Haunter"],
 
     "question": "What is this Pokémon",   
-    "correct": "a"
+    "correct": "1"
   },
   
   "6": {
@@ -62,7 +62,7 @@ callback({
     "Vanilluxe"],
 
     "question": "What is this Pokémon",    
-    "correct": "d"
+    "correct": "4"
   },
   
   "7": {
@@ -73,7 +73,7 @@ callback({
     "Charizard"],
 
     "question": "What is this Pokémon",   
-    "correct": "b"
+    "correct": "2"
   },
   
   "8": {
@@ -84,7 +84,7 @@ callback({
     "Tyrunt"],
 
     "question": "What is this Pokémon",    
-    "correct": "a"
+    "correct": "1"
   },
   
   "9": {
@@ -95,7 +95,7 @@ callback({
     "Ninjask"],
 
     "question": "What is this Pokémon",  
-    "correct": "a"
+    "correct": "1"
   },
   
   "10": {
@@ -106,6 +106,6 @@ callback({
     "Pikachu"],
 
     "question": "What is this Pokémon",  
-    "correct": "d"
+    "correct": "4"
   }
 });
