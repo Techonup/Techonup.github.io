@@ -6,6 +6,7 @@ callback({
     "Chinchou",
     "Raichu"],
     
+    "question": "What is this Pokémon",
     "correct": "c"
   },
   
@@ -16,6 +17,7 @@ callback({
     "Turtwig",
     "Bastiodon"],
     
+    "question": "What is this Pokémon",
     "correct": "b"
   },
   
@@ -25,7 +27,8 @@ callback({
     "Pidove",
     "Mewtwo",
     "Machoke"],
-    
+
+    "question": "What is this Pokémon",    
     "correct": "c"
   },
   
@@ -35,7 +38,8 @@ callback({
     "Grumpig",
     "Pidgeotto",
     "Salamence"],
-    
+
+    "question": "What is this Pokémon",    
     "correct": "a"
   },
   
@@ -45,7 +49,8 @@ callback({
     "Torterra",
     "Ariados",
     "Haunter"],
-    
+
+    "question": "What is this Pokémon",   
     "correct": "a"
   },
   
@@ -55,7 +60,8 @@ callback({
     "Leavanny",
     "Beedrill",
     "Vanilluxe"],
-    
+
+    "question": "What is this Pokémon",    
     "correct": "d"
   },
   
@@ -65,7 +71,8 @@ callback({
     "Shaymin",
     "Raikou",
     "Charizard"],
-    
+
+    "question": "What is this Pokémon",   
     "correct": "b"
   },
   
@@ -75,7 +82,8 @@ callback({
     "Golduck",
     "Houndour",
     "Tyrunt"],
-    
+
+    "question": "What is this Pokémon",    
     "correct": "a"
   },
   
@@ -85,7 +93,8 @@ callback({
     "Primeape",
     "Dragonair",
     "Ninjask"],
-    
+
+    "question": "What is this Pokémon",  
     "correct": "a"
   },
   
@@ -95,7 +104,8 @@ callback({
     "Magnezone",
     "Clefairy",
     "Pikachu"],
-    
+
+    "question": "What is this Pokémon",  
     "correct": "d"
   }
 });
