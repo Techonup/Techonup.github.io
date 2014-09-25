@@ -14,8 +14,7 @@ callback({
     "choices": [
     "Mew",
     "Scizor",
-    "Turtwig",
-    "Bastiodon"],
+    "Turtwig"],
     
     "question": "What is this Pok&eacute;mon",
     "correct": "2"
@@ -35,9 +34,7 @@ callback({
   "4": {
     "choices": [
     "Latias",
-    "Grumpig",
-    "Pidgeotto",
-    "Salamence"],
+    "Grumpig"],
 
     "question": "What is this Pok&eacute;mon",    
     "correct": "1"
@@ -48,7 +45,9 @@ callback({
     "Mamoswine",
     "Torterra",
     "Ariados",
-    "Haunter"],
+    "Haunter",
+    "Chesnaught",
+    "Stunfisk"],
 
     "question": "What is this Pok&eacute;mon",   
     "correct": "1"
@@ -59,7 +58,8 @@ callback({
     "Lapras",
     "Leavanny",
     "Beedrill",
-    "Vanilluxe"],
+    "Vanilluxe",
+    "Empoleon"],
 
     "question": "What is this Pok&eacute;mon",    
     "correct": "4"
@@ -91,8 +91,7 @@ callback({
     "choices": [
     "Greninja",
     "Primeape",
-    "Dragonair",
-    "Ninjask"],
+    "Dragonair"],
 
     "question": "What is this Pok&eacute;mon",  
     "correct": "1"
@@ -100,12 +99,9 @@ callback({
   
   "10": {
     "choices": [
-    "Sylveon",
-    "Magnezone",
-    "Clefairy",
     "Pikachu"],
 
     "question": "What is this Pok&eacute;mon",  
-    "correct": "4"
+    "correct": "1"
   }
 });
